@@ -5,9 +5,9 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{7235A2D1-4F20-4070-8B4E-76FA54A5FC53}" Loaded="No" Name="Sistema Eleitoral" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Sistema Eleitoral.pdm"/>
-		<Model Expanded="Yes" ID="{88F209AE-C6C7-47CE-9A9B-3FB292961CAF}" Loaded="No" Name="Banco Gerenciador ERP" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Banco Gerenciador ERP.pdm"/>
+		<Model Expanded="Yes" ID="{88F209AE-C6C7-47CE-9A9B-3FB292961CAF}" Name="Banco Gerenciador ERP" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Banco Gerenciador ERP.pdm"/>
 		<Model Expanded="Yes" ID="{EAB8512D-164F-412B-B829-D158FFAD1267}" Loaded="No" Name="Projeto_Nascença" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Projeto_Nascença.pdm"/>
-		<Model Expanded="Yes" ID="{72661A6C-A927-4DD2-8D95-A0598D997925}" Name="Mapas - CAGEPA" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Mapas - CAGEPA.pdm"/>
+		<Model Expanded="Yes" ID="{72661A6C-A927-4DD2-8D95-A0598D997925}" Loaded="No" Name="Mapas - CAGEPA" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Mapas - CAGEPA.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
